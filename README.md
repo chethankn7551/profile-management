@@ -63,6 +63,9 @@ Approch and Optimizations
 2. Context API: The application uses React's Context API to manage global state for profile data, making the state accessible throughtout the component tree.
 3. Environment based API urls: Configured environment-based urls for development and production, allowing easy deployment and testing.
 
+### Website link
+    Click here to see the app `https://iridescent-platypus-c6965b.netlify.app`
+
 ### ScreenShots for reference
 
 ![alt text](./screenshots/image.png)

@@ -62,4 +62,9 @@ Approch and Optimizations
 1. Typescript for type safety: Typescript improves code reliability and helps prevent runtime errors by enforcing type checks.
 2. Context API: The application uses React's Context API to manage global state for profile data, making the state accessible throughtout the component tree.
 3. Environment based API urls: Configured environment-based urls for development and production, allowing easy deployment and testing.
- 
+
+### ScreenShots for reference
+
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)

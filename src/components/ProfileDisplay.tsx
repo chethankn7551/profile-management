@@ -30,7 +30,7 @@ const ProfileDisplay = () => {
       await deleteProfile(id!);
       localStorage.removeItem("profile");
       setProfile(null);
-      navigate("/profile");
+      navigate("/profile-form");
     } catch (error) {
       console.log("Failed to delete Profile");
     }
